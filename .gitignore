@@ -1,0 +1,11 @@
+/images/
+/out/
+/in/
+/tilesheets/
+
+# example
+!/in/FarmCave.tbin"
+!/in/readme.txt"
+!/tilesheets/HSCave.png
+!/tilesheets/hotspringcave.png
+!/tilesheets/paths.png
